@@ -1,7 +1,7 @@
 ## Howdy, I'm Jared Ramos 
 
 I'm a Computer Science student at ODU!
-I'm currently working on a horror game
+I'm currently working on a horror game in my free time.
 
 ### Languages & Technologies:
 - Java, C++
