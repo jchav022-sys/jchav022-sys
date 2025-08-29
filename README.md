@@ -3,9 +3,14 @@
 I'm a Computer Science student at ODU!
 I'm currently working on a horror game in my free time.
 
-### Languages & Technologies:
+### Languages & Frameworks:
 - Java, C++
-- GitHub
+
+### Tools, Environments, and IDEs:
+- Unix, Eclipse, Code::Blocks, X2Go, Pep/9
+
+### Game Engines and Other Tech:
+- Unreal Engine, Git, Github, Blendr
 
 <!--
 **jchav022-sys/jchav022-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
